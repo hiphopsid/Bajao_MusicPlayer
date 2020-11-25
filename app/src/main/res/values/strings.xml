@@ -59,7 +59,7 @@
         <item quantity="other">albums</item>
     </plurals>
     <string name="always">Always</string>
-    <string name="app_name">Music Player</string>
+    <string name="app_name">Bajao Music Player</string>
     <string name="app_shortcut_last_added_short">Last added</string>
     <string name="app_shortcut_shuffle_all_short">Shuffle</string>
     <string name="app_shortcut_top_songs_short">Top songs</string>
@@ -150,7 +150,7 @@
     <string name="light_theme_name">Light</string>
     <string name="listing_files">Listing files</string>
     <string name="lyrics">Lyrics</string>
-    <string name="main_activity_name">Music</string>
+    <string name="main_activity_name">Bajao Music Player</string>
     <string name="md_back_label">Back</string>
     <string name="md_cancel_label">Cancel</string>
     <string name="md_choose_label">Choose</string>
@@ -283,7 +283,7 @@
     <string name="up_next">Up next</string>
     <string name="update_image">Update image</string>
     <string name="updating">Updating…</string>
-    <string name="version">Version</string>
+    <string name="version">Team Members</string>
     <string name="web_search">Web search</string>
     <string name="welcome_to_music_app">Welcome to \"Music\" application, a beautiful and lightweight music player!</string>
     <string name="what_do_you_want_to_share">What do you want to share?</string>
