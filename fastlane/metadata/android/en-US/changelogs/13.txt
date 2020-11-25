@@ -1,5 +1,0 @@
-* Added Portuguese Brazilian strings
-* Added new selector for navigation drawer
-* Added splash screen
-* Fixes and changes for Android 11
-and other fixes and improvements
